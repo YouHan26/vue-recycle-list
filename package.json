@@ -1,0 +1,8 @@
+{
+  "name": "vue-recycle-list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/YouHan26/vue-recycle-list.git",
+  "author": "youhan26 <youhan26@gmail.com>",
+  "license": "MIT"
+}
